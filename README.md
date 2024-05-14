@@ -1,7 +1,6 @@
 # Trabalho 1 - INE5418: Computação Distribuída
 
 Este projeto consiste em uma aplicação distribuída para criação de usuários e envio de e-mails de boas-vindas. Cada serviço é executado separadamente, com seus próprios bancos de dados.
-Como Executar
 
 Para executar a aplicação, siga estas etapas:
 
