@@ -15,3 +15,7 @@ Para executar a aplicação, siga estas etapas:
    através da url `localhost:3000`.
 
 Certifique-se de ter o Maven e o Node.js instalados em seu sistema antes de executar os comandos acima.
+
+Observações
+
+É necessário criar os dois bancos de dados postgres, `ms_user` para ser o banco de dados do serviço de usuário, e `ms_email` para ser o banco de dados do serviço de e-mail.
